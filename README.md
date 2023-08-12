@@ -1,1 +1,1 @@
-# video_streaming_using_webcam_in_Flask
+# Face recognition project in Flask
